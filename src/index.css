@@ -28,6 +28,7 @@ code {
   max-width: 960px;
   margin: 0 auto;
   padding: 0 15px;
+  min-height: 100vh;
 }
 
 .notes-list{
